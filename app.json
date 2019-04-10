@@ -1,0 +1,12 @@
+{
+  "name": "npong",
+  "description": "NPong game",
+  "keywords": [
+    "npong",
+    "pong",
+    "game",
+    "go"
+  ],
+  "website": "http://github.com/liborio7/npong",
+  "repository": "http://github.com/liborio7&/npong"
+}
